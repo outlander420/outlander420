@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @outlander420
 - 👀 I’m interested in Cybersecurity and it's applications
 - 🌱 I’m currently learning for CompTIA Security+ exam and practicing pen-testing side by side
-- 💞️ I’m looking to collaborate on projects related to cybersecurity, it can be on anything until it's realted to cybersecurity
+- 💞️ I’m looking to collaborate on projects related to cybersecurity, it can be on anything related to cybersecurity
 - 📫 How to reach me, you can message me on Twitter: @chai_mein_adrak is my username, thankyou!
 
 <!---
