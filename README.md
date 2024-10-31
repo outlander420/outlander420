@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @outlander420
+- 👋 Hi, my name is Yash Vardhan
 - 👀 I’m interested in Cybersecurity and it's applications
 - 🌱 I’m currently learning for CompTIA Security+ exam and practicing pen-testing side by side
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, it can be on anything related to cybersecurity
